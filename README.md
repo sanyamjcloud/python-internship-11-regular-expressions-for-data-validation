@@ -2,22 +2,22 @@ README.md
 
 # Regex Validation in Python
 
-## 📌 Objective
+## Objective
 This project demonstrates how to use **regular expressions (regex)** in Python to validate:
 - Email addresses
 - Indian mobile numbers
 - Strong passwords
 
-## 🛠 Technologies Used
+## Technologies Used
 - Python 3
 - re (Regular Expressions)
 - VS Code
 
-## 📂 Files
+## Files
 - `regex_validation.py` → Main Python script with all validation logic
 - `screenshots/` → Output screenshots (optional)
 
-## ✅ Validation Rules
+## Validation Rules
 
 ### Email
 - Standard email format (username@domain.extension)
@@ -36,3 +36,4 @@ This project demonstrates how to use **regular expressions (regex)** in Python t
 ## ▶ How to Run
 ```bash
 python regex_validation.py
+
